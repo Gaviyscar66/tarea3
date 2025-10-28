@@ -135,7 +135,7 @@ body{
 
 
 
-@media (min-width: 800px) {
+@media (max-width: 767px) {
 
   .seccion1 {
     display: flex;
