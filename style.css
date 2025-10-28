@@ -320,24 +320,24 @@ body {
   }
 
   .tour h2 {
-    left: 35%;
+    left: 33%;
     font-size: 25px;
   }
 
   .tickets h2 {
-    left: 25%;
-    font-size: 35px;
+    left: 32%;
+    font-size: 25px;
   }
 
   .tour button {
     left: 35%;
     padding: 8px 18px;
-    font-size: 0.9rem;
+    font-size: 18px;
   }
 
   .tickets button {
      left: 35%;
     padding: 8px 18px;
-    font-size: 0.9rem;
+    font-size: 18px;
   }
 }
